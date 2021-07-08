@@ -20,4 +20,4 @@
 | Анастасия Рогачева	| Санкт-Петебург	| [avtovo2021.ru](https://avtovo2021.ru) 	| Муниципальные
 | Таисия Богомолова	| Санкт-Петебург	| [avtovo2021.ru](https://avtovo2021.ru) 	| Муниципальные
 | Дмитрий Горбунов	| Санкт-Петебург	| [avtovo2021.ru](https://avtovo2021.ru) 	| Муниципальные
-| Ксения Безденежных	| Москва	        | [t.me/socialistnews](https://t.me/socialistnews) |	| ГД
+| Ксения Безденежных	| Москва	        | [t.me/socialistnews](https://t.me/socialistnews) | ГД
