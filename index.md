@@ -21,3 +21,4 @@
 | Таисия Богомолова	| Санкт-Петебург	| [avtovo2021.ru](https://avtovo2021.ru) 	| Муниципальные
 | Дмитрий Горбунов	| Санкт-Петебург	| [avtovo2021.ru](https://avtovo2021.ru) 	| Муниципальные
 | Ксения Безденежных	| Москва	        | [t.me/socialistnews](https://t.me/socialistnews) | ГД
+| Виолетта Грудина      | Мурманск 		| [grudina2021.com](https://www.grudina2021.com) | Горсовет
